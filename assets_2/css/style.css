@@ -40,7 +40,7 @@ h1 {
 }
 
 h3 {
-  font-size: 1em;
+  font-size: 1.2em;
   margin: 0 5px;
   color: #fff;
 }
@@ -110,7 +110,7 @@ footer {
 
 .footerText {
   width: 50%;
-  font-size: 1em;
+  font-size: 1.2em;
   color: #fff;
   display: flex;
   margin: 0px auto;
@@ -132,7 +132,7 @@ footer {
   }
   .introText p {
     width: 100%;
-    font-size: 1em;
+    font-size: 1.2em;
     height: auto;
   }
   #videos {
@@ -147,7 +147,7 @@ footer {
   }
   .footerText {
     width: 80%;
-    font-size: 1em;
+    font-size: 1.2em;
     color: #fff;
     display: flex;
     margin: 0px auto;
